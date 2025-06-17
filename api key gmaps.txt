@@ -1,0 +1,5 @@
+API KEY GMAPSS :
+AIzaSyCHd9XCVcAs9VCll89ZbXXwTlWek3gLwEU
+
+C:\laragon\bin\ngrok>ngrok config add-authtoken 2xjBGfpdFwDnZdeo7cXyH94mL2h_4wyfrWkFkZiJSdedfYN9f
+Authtoken saved to configuration file: C:\Users\lenovo\AppData\Local/ngrok/ngrok.yml
